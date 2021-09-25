@@ -1,0 +1,12 @@
+short_open_tag = off
+max_execution_time = 60
+max_input_time = -1
+max_input_vars = 3000
+memory_limit = 512M
+display_errors = off 
+log_errors = on 
+post_max_size = 30M
+file_uploads = On
+upload_max_filesize = 30M
+error_reporting = 
+mysqli.allow_local_infile = On
